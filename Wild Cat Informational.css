@@ -1,0 +1,30 @@
+body {
+    background-color: #a1f0e0;
+    margin: 0px;
+    font-family:'Times New Roman', Times, serif ;
+    font-size: 16px;
+    }
+
+.main{
+    margin-left:10px;
+    margin-right:320px;
+    margin-top:10px;
+    margin-bottom:10px;
+    border-radius:5px;
+    padding: 20px;
+    font-size:110%;
+}
+.sidebarpics{
+    width:300px;
+    float:right;
+    border-radius: 6px;
+    margin-left:10px; margin-right:10px;
+    margin-top:0px; margin-bottom:10px;
+    clear:right;
+}
+
+p{
+    background-color:antiquewhite;
+    border-radius:7px;
+    padding:12px;
+}
